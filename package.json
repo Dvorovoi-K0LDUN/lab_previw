@@ -1,0 +1,9 @@
+{
+  "name": "@kazankov_ilya/page-preview",
+  "version": "1.0.0",
+  "description": "Web component for HTML page previews",
+  "type": "module",
+  "exports": "./src/page-preview.js",
+  "files": ["src", "README.md", "LICENSE"],
+  "license": "MIT"
+}
